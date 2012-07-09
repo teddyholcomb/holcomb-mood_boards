@@ -1,0 +1,14 @@
+/*#wrapper{
+	margin: auto;
+}*/
+
+
+body{
+	width: 960px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+h1{
+	text-decoration: underline;
+}
